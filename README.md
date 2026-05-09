@@ -48,7 +48,7 @@ This project helps students who are confused about their future career by analyz
 7. User downloads personalized career report
 
 ---#3 Flowchart:
-![Flowchart](https://github.com/mayuri-ai06/smart-career-guidance-system/blob/main/assets/Flowchart.jpg?raw=true)
+![Flowchart](https://github.com/Komal3114/Smart-Career-Guidance-System/blob/main/assets/Flowchart.jpg?raw=true)
 
 ## 📊 Screenshots
 
@@ -126,11 +126,10 @@ This system can be used by:
 
 ## 📬 Author
 
-**Mayuri Khatarkar**
-AI & ML Student | Python Developer
+**Komal Kushwaha**
+AI & DS Student | Python Developer
 
-LinkedIn: *(www.linkedin.com/in/
-mayuri-khatarkar-259710336
+LinkedIn: *(https://www.linkedin.com/in/komal-kushwaha-datascientist/
 )*
 
 
