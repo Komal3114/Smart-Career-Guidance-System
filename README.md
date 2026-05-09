@@ -54,15 +54,15 @@ This project helps students who are confused about their future career by analyz
 
 ### Home Interface
 
-![Home](https://github.com/mayuri-ai06/smart-career-guidance-system/blob/main/assets/Career%20guide%20output.png?raw=true)
+![Home](https://github.com/Komal3114/Smart-Career-Guidance-System/blob/main/assets/Career%20guide%20output.png?raw=true)
 
 ### Skill Analysis Chart
 
-![Chart](https://github.com/mayuri-ai06/smart-career-guidance-system/blob/main/assets/Chart%20output.png?raw=true)
+![Chart](https://github.com/Komal3114/Smart-Career-Guidance-System/blob/main/assets/Chart%20output.png?raw=true)
 
 ### AI Generated Roadmap
 
-![Roadmap](https://github.com/mayuri-ai06/smart-career-guidance-system/blob/main/assets/Download%20option%20output.png?raw=true)
+![Roadmap](https://github.com/Komal3114/Smart-Career-Guidance-System/blob/main/assets/Download%20option%20output.png?raw=true)
 
 ---
 
@@ -127,6 +127,7 @@ This system can be used by:
 ## 📬 Author
 
 **Komal Kushwaha**
+
 AI & DS Student | Python Developer
 
 LinkedIn: *(https://www.linkedin.com/in/komal-kushwaha-datascientist/
