@@ -15,13 +15,21 @@ This project helps students who are confused about their future career by analyz
 ## 📌 Features
 
 ✔ Career prediction using Machine Learning model
+
 ✔ Interest analysis (Maths, Biology, Commerce, Creativity)
+
 ✔ Manual override logic for better accuracy
+
 ✔ AI-generated 3-month roadmap (Gemini API)
+
 ✔ Skill explanation for each career
+
 ✔ Resume skill suggestions
+
 ✔ Student data stored in CSV database
+
 ✔ Visual skill analysis chart
+
 ✔ Downloadable personalized career report
 
 ---
