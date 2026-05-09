@@ -8,7 +8,7 @@ This project helps students who are confused about their future career by analyz
 
 ## 🚀 Live Demo
 
-*Add your Streamlit deployed link here(https://smart-career-guidance-system-m.streamlit.app/)
+*Add your Streamlit deployed link here(https://smart-career-guidance-system.streamlit.app/)
 
 ---
 
