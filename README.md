@@ -47,7 +47,7 @@ This project helps students who are confused about their future career by analyz
 6. Gemini AI generates 3-month roadmap
 7. User downloads personalized career report
 
----#3 Flowchart:
+## 3 Flowchart:
 ![Flowchart](https://github.com/Komal3114/Smart-Career-Guidance-System/blob/main/assets/Flowchart.jpg?raw=true)
 
 ## 📊 Screenshots
